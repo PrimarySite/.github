@@ -11,4 +11,4 @@
 
 ### Additional comments
 
-Informationa about supporting pull requests, branches, documentation or any other useful information regarding this task belongs in this section.
+Information about supporting pull requests, branches, documentation or any other useful information regarding this task belongs in this section.
