@@ -1,5 +1,5 @@
 # .github
-Organisation-wide templates for Primarysire repositories
+Organisation-wide templates for Primarysite repositories.
 
 This special repository is currently used to introduce pull request templates across the organisation's repositories.
 
