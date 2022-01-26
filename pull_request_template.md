@@ -1,7 +1,6 @@
-### Linked task(s)
+### Linked DevOps story
 
-- ...
-- ...
+…
 
 ### Development checklist
 
